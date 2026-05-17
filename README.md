@@ -4,7 +4,7 @@ Simulation study in R comparing OLS, RRR, and Sparse Reduced Rank Regression (SR
 ## Repository Contents
 
 - `r_sim_stuff_F.R` - R code used to generate the simulation study
-- `Sparse_Reduced_Rank_Regression_Simulation_Study (2).pdf` - LaTeX report summarising the simulation design, evaluation criteria and results.
+- `Sparse_Reduced_Rank_Regression_Simulation_Study.pdf` - LaTeX report summarising the simulation design, evaluation criteria and results.
 
 ## Methods Used
 - Statistical computing in R
