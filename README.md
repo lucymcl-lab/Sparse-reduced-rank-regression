@@ -14,6 +14,6 @@ Simulation study in R comparing OLS, RRR, and Sparse Reduced Rank Regression (SR
 - Reduced Rank Regression
 - Sparse Reduced Rank Regression
 
-## Key Findngs 
+## Key Findings 
 Across the scenarios considered, SRRR consistently achieved the lowest or near-lowest prediction and estimation errors, while also identifying the majority of relevant predictors. The benefits of both SRRR and RRR over OLS were clear in all scenarios, while the advantages of SRRR over RRR became more evident as the level of sparsity in the true coefficient matrix
 increased.
